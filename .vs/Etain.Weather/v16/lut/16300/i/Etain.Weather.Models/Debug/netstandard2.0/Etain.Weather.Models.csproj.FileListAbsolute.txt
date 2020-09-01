@@ -1,0 +1,7 @@
+C:\00Code\EtainCode\Etain.Weather\.vs\Etain.Weather\v16\lut\0\b\Etain.Weather.Models\Debug\netstandard2.0\Etain.Weather.Models.deps.json
+C:\00Code\EtainCode\Etain.Weather\.vs\Etain.Weather\v16\lut\0\b\Etain.Weather.Models\Debug\netstandard2.0\Etain.Weather.Models.dll
+C:\00Code\EtainCode\Etain.Weather\.vs\Etain.Weather\v16\lut\0\i\Etain.Weather.Models\Debug\netstandard2.0\Etain.Weather.Models.csprojAssemblyReference.cache
+C:\00Code\EtainCode\Etain.Weather\.vs\Etain.Weather\v16\lut\0\i\Etain.Weather.Models\Debug\netstandard2.0\Etain.Weather.Models.AssemblyInfoInputs.cache
+C:\00Code\EtainCode\Etain.Weather\.vs\Etain.Weather\v16\lut\0\i\Etain.Weather.Models\Debug\netstandard2.0\Etain.Weather.Models.AssemblyInfo.cs
+C:\00Code\EtainCode\Etain.Weather\.vs\Etain.Weather\v16\lut\0\i\Etain.Weather.Models\Debug\netstandard2.0\Etain.Weather.Models.csproj.CopyComplete
+C:\00Code\EtainCode\Etain.Weather\.vs\Etain.Weather\v16\lut\0\i\Etain.Weather.Models\Debug\netstandard2.0\Etain.Weather.Models.dll

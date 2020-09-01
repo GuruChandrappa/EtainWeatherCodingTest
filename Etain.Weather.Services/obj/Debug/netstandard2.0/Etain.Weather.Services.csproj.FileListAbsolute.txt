@@ -1,0 +1,12 @@
+C:\00Code\EtainCode\Etain.Weather\Etain.Weather.Services\bin\Debug\netstandard2.0\Etain.Weather.Services.deps.json
+C:\00Code\EtainCode\Etain.Weather\Etain.Weather.Services\bin\Debug\netstandard2.0\Etain.Weather.Services.dll
+C:\00Code\EtainCode\Etain.Weather\Etain.Weather.Services\bin\Debug\netstandard2.0\Etain.Weather.Services.pdb
+C:\00Code\EtainCode\Etain.Weather\Etain.Weather.Services\bin\Debug\netstandard2.0\Etain.Weather.Models.dll
+C:\00Code\EtainCode\Etain.Weather\Etain.Weather.Services\bin\Debug\netstandard2.0\Etain.Weather.Models.pdb
+C:\00Code\EtainCode\Etain.Weather\Etain.Weather.Services\obj\Debug\netstandard2.0\Etain.Weather.Services.csprojAssemblyReference.cache
+C:\00Code\EtainCode\Etain.Weather\Etain.Weather.Services\obj\Debug\netstandard2.0\Etain.Weather.Services.AssemblyInfoInputs.cache
+C:\00Code\EtainCode\Etain.Weather\Etain.Weather.Services\obj\Debug\netstandard2.0\Etain.Weather.Services.AssemblyInfo.cs
+C:\00Code\EtainCode\Etain.Weather\Etain.Weather.Services\obj\Debug\netstandard2.0\Etain.Weather.Services.csproj.CoreCompileInputs.cache
+C:\00Code\EtainCode\Etain.Weather\Etain.Weather.Services\obj\Debug\netstandard2.0\Etain.Weather.Services.csproj.CopyComplete
+C:\00Code\EtainCode\Etain.Weather\Etain.Weather.Services\obj\Debug\netstandard2.0\Etain.Weather.Services.dll
+C:\00Code\EtainCode\Etain.Weather\Etain.Weather.Services\obj\Debug\netstandard2.0\Etain.Weather.Services.pdb
